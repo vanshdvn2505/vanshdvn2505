@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Dhawan</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently deepening my knowledge in **React, Express, and MongoDB**.
 - 👨‍💻 Explore my projects and portfolio at [https://vanshdvn2505.github.io/Portfolio/](https://vanshdvn2505.github.io/Portfolio/).
